@@ -1,0 +1,3 @@
+/workspaces/proj/build/CMakeFiles/snake_game.dir
+/workspaces/proj/build/CMakeFiles/edit_cache.dir
+/workspaces/proj/build/CMakeFiles/rebuild_cache.dir
